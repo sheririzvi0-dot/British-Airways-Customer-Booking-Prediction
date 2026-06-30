@@ -64,4 +64,4 @@ Improve conversion rates
 Identify high-value customers early
 
 🏁 Conclusion
-The Random Forest model successfully predicts customer booking behavior and highlights key drivers influencing customer decisions. This provides actionable insights for improving airline marketing and customer 
+The Random Forest model successfully predicts customer booking behavior and highlights key drivers influencing customer decisions. This provides actionable insights for improving airline marketing and customer targeting strategies.
