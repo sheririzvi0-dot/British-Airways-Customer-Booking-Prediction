@@ -1,4 +1,4 @@
-# British-airways-customer-booking-prediction
+# British-Airways-Customer-Booking-Prediction
 Machine Learning project predicting customer booking behavior using Python and Random Forest.
 
 
