@@ -73,7 +73,7 @@ The dataset includes the following customer and travel attributes:
 
 ## **📈 Model Performance**
 
-- **Accuracy:** *Replace with your actual accuracy*
+- **Accuracy:** 0.8559
 - **Cross-Validation:** Performed to ensure model stability and reliability
 - **Feature Importance:** Used to identify the strongest predictors of customer booking behavior
 
